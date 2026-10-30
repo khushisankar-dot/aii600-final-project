@@ -7,7 +7,10 @@ Follow the [final project lab](https://vsokolov.org/labs/final-project-lab.html)
 ## Who
 
 Alone, or a group of at most three. One person forks. That person adds the other members and `VadimSokolov` as collaborators. On a repository owned by a personal account the role is Write. On the fork, write the names and GitHub usernames under this heading. One person speaks at the presentation. Every member can explain the whole repository.
-
+**Team**
+ - Khushi Sankar, khushisankar-dot
+ - Lyla Benyar, Lbenyar
+ - Funto, funteebee
 ## Fork
 
 The repository is public, and so is the fork.
