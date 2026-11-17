@@ -17,7 +17,7 @@ U.S. EPA Air Quality System (AQS), daily summary files for PM2.5 FRM/FEM mass (p
 SHA-256 of `dc_pm25_daily.csv`:
 
 ```
-SHA256: PASTE_HASH_HERE
+SHA256: dc43845209b3b8fa9c8c951e5e73595b9c786c17999473655184e7af6f3f1c4a
 ```
 
 The notebook reads this line and refuses to run if the file does not match.
