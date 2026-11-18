@@ -70,3 +70,7 @@ R or Python. Use the language you can explain. AI assistants are allowed. On you
 - `.github/pull_request_template.md`. The form a pull request opens with.
 - `fig/`. Plots saved from the notebook, including `fig/layers.png`.
 - `data/README.md`. The source, the file names, and the commands that publish or download the data.
+
+## AI use
+
+Claude (Anthropic) helped write `build_data.py`, the analysis code in `analysis.ipynb`, the fixes to `decision_rule.py`, and drafts of the `decisions.md` entries. The team checked and ran everything on `main`.
